@@ -1,0 +1,23 @@
+{
+  "name": "botmvi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanlay01/botmvi"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanlay01/botmvi/issues"
+  },
+  "homepage": "https://github.com/stanlay01/botmvi",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
